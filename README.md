@@ -10,6 +10,6 @@ To be completed!
 - English
 
 ## Software related with linguistics
-- [Praat)](https://www.fon.hum.uva.nl/praat/)
+- [Praat](https://www.fon.hum.uva.nl/praat/)
 - MiniSpeechLab (NKU)
 - voiscript
